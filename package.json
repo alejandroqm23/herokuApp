@@ -1,7 +1,6 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node app"
@@ -12,5 +11,14 @@
   "dependencies": {
     "express": "4.16.4",
     "upper-case": "^1.1.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandroqm23/herokuApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alejandroqm23/herokuApp/issues"
+  },
+  "homepage": "https://github.com/alejandroqm23/herokuApp#readme",
+  "description": ""
 }
